@@ -1,0 +1,26 @@
+{
+    "name": "circuitosabara",
+    "version": "1.0.0",
+    "description": "Portal Circuito Sabara",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RaoNascimento/CircuitoSabara.git"
+    },
+    "author": "Varios",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "consign": "^0.1.6",
+        "ejs": "^2.5.7",
+        "express": "^4.16.2",
+        "express-validator": "^4.2.1"
+    },
+    "bugs": {
+        "url": "https://github.com/RaoNascimento/CircuitoSabara/issues"
+    },
+    "homepage": "https://github.com/RaoNascimento/CircuitoSabara#readme"
+}
